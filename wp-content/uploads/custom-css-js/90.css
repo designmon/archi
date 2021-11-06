@@ -1,0 +1,154 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+html {
+    font-family: 'Courier Prime', monospace;
+    font-size: 12px;
+}
+
+/*keep map-container aspect ratio 2.1667*/
+.map-container {
+    width: 1024px;
+    height: 473px;
+    background-color:white;
+    position: relative;
+    margin: 0 auto;
+    }
+
+/*lines */
+
+.lines {
+}
+
+#line-pm {
+    position: absolute;
+    top: 17%;
+    left: 23.8%;
+    opacity: 0.15;
+    transition: opacity 0.17s linear 0s;
+}
+
+#line-cyclops {
+    position: absolute;
+    top: 17%;
+    left: 38.4%;
+    opacity: 0.15;
+    transition: opacity 0.17s linear 0s;
+}
+
+#line-light {
+    position: absolute;
+    top: 17%;
+    left: 53.5%;
+    opacity: 0.15;
+    transition: opacity 0.17s linear 0s;
+}
+
+#line-intertwined {
+    position: absolute;
+    top: 17%;
+    left: 68.5%;
+    opacity: 0.15;
+    transition: opacity 0.17s linear 0s;
+}
+
+#line-hyper {
+    position: absolute;
+    top: 17%;
+    left: 85%;
+    opacity: 0.15;
+    transition: opacity 0.17s linear 0s;
+}
+
+/*hover effects*/
+
+#line-pm:hover {
+    opacity: 1;
+}
+#line-pm:hover + #description-pm{
+    opacity: 1;
+}
+
+#line-cyclops:hover {
+    opacity: 1;
+}
+
+#line-light:hover {
+    opacity: 1;
+}
+
+#line-intertwined:hover {
+    opacity: 1;
+}
+
+#line-hyper:hover {
+    opacity: 1;
+}
+
+
+/*project descriptions*/
+
+#description-pm{
+    position: absolute;
+    top: 18%;
+    left: 30%;
+    opacity: 0;
+    transition: opacity 0.17s linear 0s;
+    line-height: 385%;
+}
+
+
+
+
+/* nodes */
+
+#node-archi-pm {
+    position: absolute;
+    top: 22.1%;
+    left: 25.1%;
+    opacity: 0;
+    transition: opacity 0.15s linear 0s;
+}
+
+#node-archi-pm:hover {
+    opacity: 1;
+}
+
+
+/*
+#node-tech-pm {
+    position: absolute;
+    top: 38%;
+    left: 24.6%;
+}
+
+#node-environment-pm {
+    position: absolute;
+    top: 54.5%;
+    left: 24.6%;
+}
+
+#node-society-pm {
+    position: absolute;
+    top: 71.5%;
+    left: 24.6%;
+}
+
+#node-tech-cyclops {
+    position: absolute;
+    top: 38%;
+    left: 39.2%;
+}
+
+#node-environment-cyclops {
+    position: absolute;
+    top: 54.5%;
+    left: 39.2%;
+}
+
+#node-society-cyclops {
+    position: absolute;
+    top: 71.5%;
+    left: 39.2%;
+}
+*/</style>
+<!-- end Simple Custom CSS and JS -->

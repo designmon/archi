@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for &lt;div&gt;&lt;p&gt;Monika Pawlak is a Berlin-crafted architectural graduate passionate about interdisciplinary collaborations, sustainability and application of technology in built environments. &lt;/p&gt;&lt;p&gt;&lt;a href=&quot;mailto:7monika.p@gmail.com?subject=You are hired!&quot;&gt;email&lt;/a&gt; &lt;a href=&quot;https://www.linkedin.com/in/monpawlak/&quot; target=&quot;_blank&quot;&gt;linkedin&lt;/a&gt; &lt;a href=&quot;https://designmon.github.io/archi-portfolio/wp-content/uploads/2020/04/Portfolio-Monika-Pawlak.pdf&quot; target=&quot;_blank&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;	</title>
+	<atom:link href="https://designmon.github.io/archi-portfolio/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://designmon.github.io/archi-portfolio/</link>
+	<description></description>
+	<lastBuildDate>Tue, 13 Jul 2021 17:33:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+</channel>
+</rss>
